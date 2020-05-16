@@ -8,4 +8,7 @@ public class shubiao {
 
 
     }
+    private void test(){
+        int i = 0;
+    }
 }
